@@ -6,7 +6,7 @@
 
 [Lab 03](https://github.com/Tejaskumarno1/AIML_2025/blob/main/Lab_3%20(1).ipynb): Implement AI Game Strategy using MiniMax and Alpha-Beta Search Algorithms
 
-[Lab 04](https://github.com/Tejaskumarno1/AIML-2025/blob/main/lab_4.ipynb): Implement Linear Regression using Boston Housing Data
+[Lab 04](https://github.com/Tejaskumarno1/AIML_2025/blob/main/lab_4.ipynb): Implement Linear Regression using Boston Housing Data
 
 [Lab 05](): Implement Logistic Regression using Titanic Ship Data
 
